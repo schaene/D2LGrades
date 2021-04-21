@@ -8,5 +8,11 @@
 	"content_scripts":[{
 		"matches": ["https://slate.sheridancollege.ca/d2l/lms/grades/*"],
 		"js": ["d2lgrades.js"]
-	}]
+	}],
+	
+	"browser_specific_settings":{
+		"gecko":{
+			"id":"owencocjin.iss@outlook.com"
+		}
+	}
 }
