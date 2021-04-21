@@ -4,7 +4,7 @@
 ---
 
 ## Usage
->Just install it as a normal browser addon and it should modify the "Grades" page of D2L to show current grades.
+> Unfortunately, the addon has been rejected from the Firefox store, so you must manually install it (see below).
 
 The addon will modify the page (hence the scary warning about using data from the sites) and add the calculated grade beside the "Grade" header.
 <div style="text-align:center;margin-bottom:20px">
@@ -47,7 +47,7 @@ The packages should be in the app store of your respected browser. If not there 
 
 #### Browsers
 Currently only the following browsers are supported:
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/d2lgrades/)
+- Firefox
 - Chrome (There isn't a link right now; Pending approval by Chrome Web Store)
 
 #### Sites
@@ -62,3 +62,4 @@ Currently only the following sites are supported:
 "Grade Item", "Points", "Weight Achieved", "Grade"
 ```
 Then it should be fine.
+- Firefox has rejected the addon from its store as it has a "limited" audience. Manual installation is required for Firefox.
