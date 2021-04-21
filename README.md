@@ -12,6 +12,7 @@ Just install it as a normal browser addon and it should modify the "Grades" page
 ### Browsers
 Currently only the following browsers are supported:
 - Firefox
+- Chrome
 
 ### Sites
 Currently only the following sites are supported:
