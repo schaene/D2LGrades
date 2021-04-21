@@ -51,8 +51,8 @@ Currently only the following browsers are supported:
 - [Chrome](https://chrome.google.com/webstore/detail/d2l-grades/ifdhnjknhbaodcekanmodnnlkedklkbm)
 
 #### Sites
-Currently only the following sites are supported:
-- Sheridan
+Should work with any site using D2L. The addon matches the following:
+- `https://\*/d2l/lms/grades/my_grades/main.d2l?ou=\*`
 
 <br/>
 
