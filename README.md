@@ -13,7 +13,7 @@ PICTURE
 It will also add a row to the table with information on the calculated marks:
 | Grade Item | Points | Weight Achieved | Grade |
 | --- | --- | --- | --- |
-| Title of row | Existing weights | Your score out of he existing weights | Calculated grade |
+| Title of row | Existing weights | Your score out of the existing weights | Calculated grade |
 
 __Note:__ If the _Points_ column isn't 100/100, then your missing some marks; The prof might not have posted the marks yet. Better get on that!
 
