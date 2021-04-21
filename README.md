@@ -6,6 +6,8 @@
 ## Usage
 Just install it as a normal browser addon and it should modify the "Grades" page of D2L to show current grades
 
+<br/>
+
 ## Installation
 The packages should be in the app store of your respected browser. If not there are packages in this repo which you can install manually.
 
@@ -19,6 +21,8 @@ The packages should be in the app store of your respected browser. If not there 
 #### Chrome
 1. I haven't figured out how to manually install in chrome yet :(
 
+<br/>
+
 ## Support
 > Only certain sites, browsers, etc... are supported
 
@@ -31,10 +35,11 @@ Currently only the following browsers are supported:
 Currently only the following sites are supported:
 - Sheridan
 
----
+<br/>
 
 ## Limitations
 - D2L isn't standardized, so the addon might not work for some courses. If the grades table's columns follow the order:
-```"Grade Item", "Points", "Weight Achieved", "Grade"
+```
+"Grade Item", "Points", "Weight Achieved", "Grade"
 ```
 Then it should be fine.
