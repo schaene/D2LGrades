@@ -15,7 +15,7 @@ The packages should be in the app store of your respected browser. If not there 
 1. Download the `d2l_grades-1.0-fx.xpi` file.
 2. In Firefox, go to __Addons__ ([Ctrl+Shft+A])
 3. Click the gears in the top right -> __Install Add-on From File__
-4. Find the `.xpi` package, select it, click __Accept__ on the popup
+4. Find the `.xpi` package, select it, click __Add__ on the popup
 5. Congrats! Go check your grades in D2L!
 
 #### Chrome
