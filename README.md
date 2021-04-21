@@ -19,7 +19,10 @@ The packages should be in the app store of your respected browser. If not there 
 5. Congrats! Go check your grades in D2L!
 
 #### Chrome
-1. I haven't figured out how to manually install in chrome yet :(
+1. Clone this repo _OR_ download `d2lgrades.chrome.zip` file and unzip it to a folder. From here we'll assume the unzipped/cloned contents are in `~/D2LGrades/Chrome/`
+2. Go to `chrome://extensions` and check __Developer Mode__ in the top right.
+3. Click __Load Unpacked__ and select the `~/D2LGrades/Chrome/` folder (There should be a `manifest.json` file in it).
+4. Congrats! A new extension "D2L Grades 1.0" should have popped up. Go check out your grades now!
 
 <br/>
 
@@ -29,7 +32,7 @@ The packages should be in the app store of your respected browser. If not there 
 #### Browsers
 Currently only the following browsers are supported:
 - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/d2lgrades/)
-- Chrome
+- Chrome (There isn't a link right now; Pending approval by Chrome Web Store)
 
 #### Sites
 Currently only the following sites are supported:
