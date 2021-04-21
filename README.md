@@ -4,7 +4,7 @@
 ---
 
 ## Usage
-> Unfortunately, the addon has been rejected from the Firefox store, so you must manually install it (see below).
+> The recommended installation method is through the app stores, but in certain cases you can manually install.
 
 The addon will modify the page (hence the scary warning about using data from the sites) and add the calculated grade beside the "Grade" header.
 <div style="text-align:center;margin-bottom:20px">
@@ -24,7 +24,7 @@ __Note:__ If the _Points_ column isn't 100/100, then your missing some marks; Th
 
 <br/>
 
-## Installation
+## Manual Installation
 The packages should be in the app store of your respected browser. If not there are packages in this repo which you can install manually.
 
 #### Firefox
@@ -47,8 +47,8 @@ The packages should be in the app store of your respected browser. If not there 
 
 #### Browsers
 Currently only the following browsers are supported:
-- Firefox
-- Chrome (There isn't a link right now; Pending approval by Chrome Web Store)
+- Firefox (Rejected from store due to a "limited audience")
+- [Chrome](https://chrome.google.com/webstore/detail/d2l-grades/ifdhnjknhbaodcekanmodnnlkedklkbm)
 
 #### Sites
 Currently only the following sites are supported:
