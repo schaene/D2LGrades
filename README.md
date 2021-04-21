@@ -8,7 +8,7 @@
 
 The addon will modify the page (hence the scary warning about using data from the sites) and add the calculated grade beside the "Grade" header.
 <div style="text-align:center;margin-bottom:20px">
-	<img src="https://github.com/owenCocjin/D2LGrades/raw/master/Pics/ford2lgrades.png" align="center"/>
+	<img src="https://github.com/owenCocjin/D2LGrades/raw/master/Pics/ford2lgrades.png"/>
 </div>
 
 It will also add a row to the table with information on the calculated marks:
@@ -17,7 +17,7 @@ It will also add a row to the table with information on the calculated marks:
 | Title of row | Existing weights | Your score out of the existing weights | Calculated grade |
 
 <div style="text-align:center;">
-	<img src="https://github.com/owenCocjin/D2LGrades/raw/master/Pics/ford2l.png" align="center"/>
+	<img src="https://github.com/owenCocjin/D2LGrades/raw/master/Pics/ford2l.png"/>
 </div>
 
 __Note:__ If the _Points_ column isn't 100/100, then your missing some marks; The prof might not have posted the marks yet. Better get on that!
